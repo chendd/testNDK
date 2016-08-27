@@ -1,2 +1,2 @@
 # testNDK
-android studio ndk demo
+android studio ndk test demo
